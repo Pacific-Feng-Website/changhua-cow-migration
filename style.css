@@ -169,6 +169,24 @@ h2{
 	transition:0.5s;
 }
 
+#one{
+	color: #A2B59F;
+}
+
+#two{
+	color: #A2B59F;
+}
+
+#one:hover{
+	color: #EACACB;
+	transition:0.5s;
+}
+
+#two:hover{
+	color: #EACACB;
+	transition:0.5s;
+}
+
 #content .photo{
 	"width: 70%;
 	display:block; 
