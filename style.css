@@ -169,20 +169,20 @@ h2{
 	transition:0.5s;
 }
 
-#one{
+#one-click{
 	color: #A2B59F;
 }
 
-#two{
+#two-click{
 	color: #A2B59F;
 }
 
-#one:hover{
+#one-click:hover{
 	color: #EACACB;
 	transition:0.5s;
 }
 
-#two:hover{
+#two-click:hover{
 	color: #EACACB;
 	transition:0.5s;
 }
