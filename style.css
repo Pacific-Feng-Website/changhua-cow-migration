@@ -676,6 +676,32 @@ nav .icon-list{
 	font-family: 'Noto Sans TC', sans-serif !important;
 }
 
+#one-click{
+	color: #A2B59F;
+}
+
+#two-click{
+	color: #A2B59F;
+}
+
+#one-click:hover{
+	color: #EACACB;
+	transition:0.5s;
+}
+
+#two-click:hover{
+	color: #EACACB;
+	transition:0.5s;
+}
+
+.direct-navigation{
+	color: #A2B59F;
+}
+
+.direct-navigation:hover{
+	color: #EACACB;
+	transition:0.5s;
+}
 
 
 @media only screen and (max-width: 1067px){
