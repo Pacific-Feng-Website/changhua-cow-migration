@@ -552,7 +552,6 @@ nav .icon-list{
 /* MAIN CONTENT.CSS BEGIN */
 #mainContent a{
 	text-decoration: none;
-	color: black;
 }
 
 #mainContent img{
@@ -695,7 +694,7 @@ nav .icon-list{
 }
 
 #direct-navigation1, #direct-navigation2{
-	color: #A2B59F !important;
+	color: #A2B59F;
 }
 
 #direct-navigation1:hover{
