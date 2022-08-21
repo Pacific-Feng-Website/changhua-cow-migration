@@ -694,11 +694,11 @@ nav .icon-list{
 	transition:0.5s;
 }
 
-.direct-navigation{
+a.direct-navigation{
 	color: #A2B59F;
 }
 
-.direct-navigation:hover{
+a.direct-navigation:hover{
 	color: #EACACB;
 	transition:0.5s;
 }
