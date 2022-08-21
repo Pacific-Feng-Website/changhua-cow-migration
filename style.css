@@ -677,11 +677,11 @@ nav .icon-list{
 }
 
 #one-click{
-	color: #A2B59F !important;
+	color: #A2B59F;
 }
 
 #two-click{
-	color: #A2B59F !important;
+	color: #A2B59F;
 }
 
 #one-click:hover{
@@ -694,11 +694,11 @@ nav .icon-list{
 	transition:0.5s;
 }
 
-#article a.direct-navigation{
+#article a .direct-navigation{
 	color: #A2B59F !important;
 }
 
-#article a.direct-navigation:hover{
+#article a .direct-navigation:hover{
 	color: #EACACB;
 	transition:0.5s;
 }
